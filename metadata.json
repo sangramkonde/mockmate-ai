@@ -1,0 +1,7 @@
+{
+  "name": "MockMate AI",
+  "description": "A professional, voice-based AI job interview simulator with real-time feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
